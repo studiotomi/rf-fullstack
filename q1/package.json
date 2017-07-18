@@ -1,0 +1,14 @@
+{
+  "name": "quiz-full-stack",
+  "description": "Full Stack quiz question #1",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Miah Petersen<miah@rollforward.net>",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "csv": "^1.1.1"
+  }
+}
