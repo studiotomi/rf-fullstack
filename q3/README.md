@@ -1,5 +1,6 @@
 # Problem
-For your new job you are receiving 2 data files on a daily basis. The first contains a list of accounts and the second contains a list of books associated with a particular account (see below). Define or describe a schema which would be convenient for storing and querying all of the information about accounts and the books associated with them.  
+
+At your new job you are receive 2 data files on a daily basis. The first contains a list of accounts and the second contains a list of books associated with a particular account (see below). Define or describe a database schema which would be convenient for storing and querying all of the information about accounts and the books associated with them.  
 
 Example queries might include:
 - all the accounts associated with a user
